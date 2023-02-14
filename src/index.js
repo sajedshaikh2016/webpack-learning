@@ -1,3 +1,5 @@
-import helloWorld from './hello-world';
+import helloWebpack from './hello-webpack';
+import addImage from './add-image';
 
-helloWorld();
+helloWebpack();
+addImage();

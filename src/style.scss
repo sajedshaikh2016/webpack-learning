@@ -1,0 +1,10 @@
+$font-size: 3rem;
+$color-white: white;
+$color-blueviolet: blueviolet;
+
+.hello {
+  font-size: $font-size;
+  color: $color-white;
+  padding: 2rem;
+  background-color: $color-blueviolet;
+}
